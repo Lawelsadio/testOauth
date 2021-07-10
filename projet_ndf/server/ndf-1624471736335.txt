@@ -1,0 +1,40 @@
+ 
+
+Invoice
+
+   
+
+Date 1/4/2018
+Invoice # INV462589
+Acct. No. CUS1
+Terms Net due 10th
+Due Date 2/10/2018
+PO# 00001
+Sales Rep John Smith
+Ship Via UPS GND
+Ship Date 1/2/2018
+Tracking #
+
+Bill To aac
+
+Mr.Test Ship To
+
+123 Street Mr.Test
+123 Street
+Commercial: No
+Residential: No
+
+Percrras,
+| | Formula Mazda “*
+Insurance Charge | 1 | 6.80 | 6.80 |
+
+| |
+Subtotal 806.76
+
+Shipping Cost (UPS GND) 25.44
+
+Total 832.20
+
+20
+Thank you for your business. Amount Due $832.
+
